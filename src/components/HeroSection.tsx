@@ -55,7 +55,7 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="/jessin-portrait.png"
+                  src="https://cdn.poehali.dev/projects/12c19ebd-4c78-43bd-b844-a9daffcce42e/files/8c2683db-5406-49f2-ad8e-32d4f1391fa4.jpg"
                   alt="Фёдор Достоевский"
                   className="h-full w-full object-cover"
                 />
